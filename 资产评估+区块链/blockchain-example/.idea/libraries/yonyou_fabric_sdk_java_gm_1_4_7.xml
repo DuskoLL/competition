@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="yonyou-fabric-sdk-java-gm-1.4.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/blockchain-example/lib/yonyou-fabric-sdk-java-gm-1.4.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
